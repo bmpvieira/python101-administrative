@@ -1,0 +1,15 @@
+InfoKey: Title
+InfoValue: Python 101 Course ID tags
+InfoKey: Producer
+InfoValue: ImageMagick 6.7.6-8 2012-05-01 Q16 http://www.imagemagick.org
+InfoKey: ModDate
+InfoValue: D:20120522172552
+InfoKey: CreationDate
+InfoValue: D:20120522172552
+NumberOfPages: 15
+InfoKey: Author
+InfoValue: Bruno Vieira
+InfoKey: Subject
+InfoValue: Python course from CoBiG2/CBA at FCUL, Portugal
+InfoKey: Keywords
+InfoValue: python, course, cobig2, cba, fcul, portugal
