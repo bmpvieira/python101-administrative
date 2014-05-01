@@ -13,3 +13,7 @@ http://opensource.org/licenses/MIT
 
 Other materials under the Creative Commons BY 3.0 license.
 http://creativecommons.org/licenses/by/3.0/
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/bmpvieira/python101-administrative/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
